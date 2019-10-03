@@ -1,6 +1,7 @@
 /**
  * @author cairunduo
  * @date 2019/10/3 - 1:46
+ *
  * 单例模式双重检测
  */
 public class Demo01 {

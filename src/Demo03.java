@@ -3,6 +3,8 @@ import java.util.Scanner;
 /**
  * @author cairunduo
  * @date 2019/10/3 - 18:01
+ *
+ * 替换字符串中空格为%20
  */
 public class Demo03 {
     /**
