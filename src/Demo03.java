@@ -56,7 +56,7 @@ public class Demo03 {
         for (int i = 0; i < string.length(); i++) {
             s[i] = string.charAt(i);
         }
-        
+
 /*      s[0] = 'w';
         s[1] = 'e';
         s[2] = ' ';
