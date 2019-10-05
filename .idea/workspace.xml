@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99246ebf-b57c-42ca-8648-717e295aacf4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Demo12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo13.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -25,33 +25,42 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="42" />
+          <entry key="java" value="43" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="42" />
+          <entry key="JAVA" value="43" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="3084" />
+          <entry key="java" value="3385" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3084" />
+          <entry key="JAVA" value="3385" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Demo12.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="114">
               <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Demo13.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="963">
+              <caret line="81" column="5" selection-start-line="81" selection-start-column="5" selection-end-line="81" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -83,6 +92,7 @@
         <option value="$PROJECT_DIR$/src/Demo11.java" />
         <option value="$PROJECT_DIR$/src/Demo10.java" />
         <option value="$PROJECT_DIR$/src/Demo12.java" />
+        <option value="$PROJECT_DIR$/src/Demo13.java" />
       </list>
     </option>
   </component>
@@ -100,7 +110,7 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
     <option name="y" value="-10" />
     <option name="width" value="1940" />
@@ -137,7 +147,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570269533859" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570275774215" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
@@ -159,14 +169,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Demo12">
-    <configuration name="Demo07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Demo07" />
-      <module name="offer" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Demo13">
     <configuration name="Demo08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Demo08" />
       <module name="offer" />
@@ -195,20 +198,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Demo13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo13" />
+      <module name="offer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.Demo07" />
       <item itemvalue="Application.Demo08" />
       <item itemvalue="Application.Demo09" />
       <item itemvalue="Application.Demo11" />
       <item itemvalue="Application.Demo12" />
+      <item itemvalue="Application.Demo13" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo13" />
         <item itemvalue="Application.Demo12" />
         <item itemvalue="Application.Demo11" />
         <item itemvalue="Application.Demo09" />
         <item itemvalue="Application.Demo08" />
-        <item itemvalue="Application.Demo07" />
       </list>
     </recent_temporary>
   </component>
@@ -225,18 +235,18 @@
       <workItem from="1570096696182" duration="13886000" />
       <workItem from="1570204733920" duration="1868000" />
       <workItem from="1570206806269" duration="853000" />
-      <workItem from="1570265875140" duration="3433000" />
+      <workItem from="1570265875140" duration="5314000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20040000" />
+    <option name="totallyTimeSpent" value="21921000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26180837" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26180837" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -245,7 +255,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.20437956" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.20437956" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -378,6 +388,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
           <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Demo13.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="963">
+          <caret line="81" column="5" selection-start-line="81" selection-start-column="5" selection-end-line="81" selection-end-column="5" />
         </state>
       </provider>
     </entry>
