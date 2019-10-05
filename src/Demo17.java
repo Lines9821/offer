@@ -67,7 +67,7 @@ public class Demo17 {
         System.out.println();
         mirror(root);
         printTree(root);
-        
+
         //         1
         //        /
         //       3
