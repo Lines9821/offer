@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99246ebf-b57c-42ca-8648-717e295aacf4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/junitgenerator-prj-settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Demo23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo26.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/Demo22.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/Demo22.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Demo22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Demo22.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/Demo23.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/Demo23.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Demo23.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Demo23.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,23 +31,23 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="60" />
+          <entry key="java" value="63" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="60" />
+          <entry key="JAVA" value="63" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="2" />
-          <entry key="java" value="4402" />
+          <entry key="java" value="4451" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="4402" />
+          <entry key="JAVA" value="4451" />
           <entry key="PLAIN_TEXT" value="2" />
         </counts>
       </usages-collector>
@@ -74,14 +76,41 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Demo23.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-389">
-              <caret line="78" column="8" selection-start-line="78" selection-start-column="8" selection-end-line="78" selection-end-column="8" />
+              <caret line="78" selection-start-line="78" selection-end-line="78" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Demo24.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Demo25.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Demo26.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="31" column="30" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -123,6 +152,9 @@
         <option value="$PROJECT_DIR$/src/Demo20.java" />
         <option value="$PROJECT_DIR$/src/Demo22.java" />
         <option value="$PROJECT_DIR$/src/Demo23.java" />
+        <option value="$PROJECT_DIR$/src/Demo24.java" />
+        <option value="$PROJECT_DIR$/src/Demo25.java" />
+        <option value="$PROJECT_DIR$/src/Demo26.java" />
       </list>
     </option>
   </component>
@@ -177,7 +209,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570377498963" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570385091895" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
@@ -199,14 +231,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Demo23">
-    <configuration name="Demo15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Demo15" />
-      <module name="offer" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Demo26">
     <configuration name="Demo17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Demo17" />
       <module name="offer" />
@@ -235,20 +260,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Demo26" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo26" />
+      <module name="offer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.Demo15" />
       <item itemvalue="Application.Demo17" />
       <item itemvalue="Application.Demo21" />
       <item itemvalue="Application.Demo22" />
       <item itemvalue="Application.Demo23" />
+      <item itemvalue="Application.Demo26" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo26" />
         <item itemvalue="Application.Demo23" />
         <item itemvalue="Application.Demo22" />
         <item itemvalue="Application.Demo21" />
         <item itemvalue="Application.Demo17" />
-        <item itemvalue="Application.Demo15" />
       </list>
     </recent_temporary>
   </component>
@@ -266,18 +298,18 @@
       <workItem from="1570204733920" duration="1868000" />
       <workItem from="1570206806269" duration="853000" />
       <workItem from="1570265875140" duration="15494000" />
-      <workItem from="1570367468784" duration="6961000" />
+      <workItem from="1570367468784" duration="10869000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39062000" />
+    <option name="totallyTimeSpent" value="42970000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2665317" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2665317" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -286,8 +318,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2729927" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.37518248" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2729927" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.37518248" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -321,6 +353,12 @@
           <line>53</line>
           <properties />
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Demo26.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -510,10 +548,31 @@
     <entry file="file://$PROJECT_DIR$/src/Demo23.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-389">
-          <caret line="78" column="8" selection-start-line="78" selection-start-column="8" selection-end-line="78" selection-end-column="8" />
+          <caret line="78" selection-start-line="78" selection-end-line="78" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Demo24.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Demo25.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Demo26.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="31" column="30" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="30" />
         </state>
       </provider>
     </entry>
