@@ -131,6 +131,7 @@ public class Demo22 {
         int[] data6 = {7, 4, 6, 5};
         System.out.println("false: " + verifySequenceOfBST(data6));
 
+        //Debug观察该情况为何判断为false
         int[] data7 = {4, 6, 12, 8, 16, 14, 10};
         System.out.println("false: " + verifySequenceOfBST(data7));
     }
